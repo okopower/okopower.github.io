@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face{
+  font-family:logo;
+  src:url("../fonts/logo.ttf");
+}
+@font-face{
+  font-family:menu;
+  src:url("../fonts/menu.ttf");
+}
+li, a{
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
+}
