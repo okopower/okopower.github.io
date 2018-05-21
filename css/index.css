@@ -41,7 +41,7 @@
   animation-name: anim; 
   animation-duration: 140s;
   animation-direction: normal;
-  animation-timing-function: ease-in-out;
+  animation-timing-function: linear;
   animation-iteration-count: infinite;
   transform: scale(1.2, 1.2);
 }
